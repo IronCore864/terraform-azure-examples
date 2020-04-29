@@ -1,0 +1,9 @@
+.terraform/
+terraform.tfstate*
+config.tf
+cfg.ini
+install-databricks
+install-datalake
+databricks-parameters.json
+*.backup
+*.orig
